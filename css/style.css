@@ -1,0 +1,87 @@
+/* 全局设置 */
+body{
+	background-color:#efefef; 
+	font-family: arial, sans-serif; 
+	font-size:12px; 
+	color:#666666; 
+	margin:0pt auto;
+	padding:0;
+	width:1024px;
+}
+ul{
+	margin:0; 
+	padding:0;
+	list-style:none;
+}
+div.paragraph {
+	line-height: 170%; 
+	color: #626262; 
+	font-size: 13px; 
+	padding:0px 20px 0 20px;
+}
+p{	
+	line-height: 170%;
+	color: #626262; 
+	font-size: 13px; 
+	padding-bottom:12px;
+}
+h2{
+	font-size:24px;
+	font-family: arial, sans-serif;
+	font-weight:normal;
+	text-align:left;
+	color:#414141;
+	margin: 10px 0px 5px 0px;
+}
+
+
+#header{
+	width: 960px; 
+	height: 82px; 
+	text-align: right;
+}
+#headerleft{
+	float: left; 
+	font-size:30px;
+	font-weight:bold;
+	height: 60px;
+	padding: 10px 40px 0px 0px;
+}
+#headerleft, #headerleft a{
+	color:#6666cc;
+	text-decoration:none;
+}
+.content{
+	width: 900px;
+	background: #fff;
+	padding: 5px;
+}
+.content a{
+	color: #6666cc; 
+	text-decoration: none; 
+}
+.footer {
+	font-size: small;
+	border-top: 1px solid #c0c0c0;
+	padding-top: 0.1em;
+	margin-top: 4.0em;
+	color: #c0c0c0;
+}
+.block_title{
+	text-align:left;
+	line-height:33px;
+ }
+.awards
+{
+	text-align:left;
+	display:block;
+}
+.awards_item
+{
+	font-size: 14px;
+}
+.recruitment{
+	font-weight:bold;
+	padding:0px 20px 0 20px;
+	color:rgb(62, 9, 250);
+}
